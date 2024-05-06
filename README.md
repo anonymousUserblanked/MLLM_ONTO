@@ -45,3 +45,6 @@ Where:
 chmod +x run_all.sh
 ./run_all.sh <model> <ontology_path> <dataset_dir> <output_folder> <output_csv_path>
 ```
+## References
+ * [1] Hosain, A.S., Mehedi, M.H.K., Jerin, T.J., Hossain, M.M., Raja, S.H., Ferdoushi,H., Iqbal, S., Rasel, A.A.: Rice leaf disease detection with transfer learning approach. In: 2022 IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET). pp. 1–6. IEEE (2022)
+ * [2]Jearanaiwongkul, W., Anutariya, C., Racharak, T., Andres, F.: An ontology-based expert system for rice disease identification and control recommendation. Applied Sciences 11(21), 10450 (2021)
