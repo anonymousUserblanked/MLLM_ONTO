@@ -3,6 +3,7 @@
 This repository contains the code, data and results for our paper Integrating Multimodal Large Language Models and Ontology for Visual Concept Identification,Inference and explainability.
 For more details, please check our paper. 
 In our paper, we used the platform  [Vision-Arena](https://huggingface.co/spaces/WildVision/vision-arena) to prompt Multimodal Larege Language Models (MLLMs) since it provides the opportunity to use MLLMs without API access keys.
+Results could be seen in [/Results](https://github.com/anonymousUserblanked/MLLM_ONTO/tree/main/Results))
 However, in this repository, we share all the needed code to reproduce the results when having API key access.
 
 ## Used Dataset
